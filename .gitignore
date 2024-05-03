@@ -1,0 +1,62 @@
+### Modified for C and C++ ###
+
+# Prerequisites (c/c++)
+*.d
+
+# Compiled Object files (c/c++)
+*.slo
+*.lo
+*.o
+*.obj
+*.ko
+*.obj
+*.elf
+
+# Linker output (c)
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers (c/c++)
+*.gch
+*.pch
+
+# Compiled Dynamic libraries (c/c++)
+*.so
+*.dylib
+*.dll
+*.so.*
+
+# Fortran module files (c++)
+*.mod
+*.smod
+
+# Compiled Static libraries (c/c++)
+*.lai
+*.la
+*.a
+*.lib
+*.lo
+
+# Executables (c/c++)
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files (c)
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results (c)
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
